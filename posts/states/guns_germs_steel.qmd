@@ -1,0 +1,10 @@
+---
+title: "Guns, Germs, and Steel"
+author: "Garrison LeRock"
+date: "2024-05-31"
+categories: [anthropology]
+image: "guns_germs_steel.jpeg"
+---
+Guns, Germs, and Steel; an account of the overtaking of some societies over others. 
+Documenting the technology that led to the domination and subjugation seen throughout history, Jared Diamond inspects the disparate resources that existed between societal regions and climates. 
+His fresh perspecitve of rational thinking is welcomed, and directly challenges old-racist ideas explaining technological differences between societies. 
